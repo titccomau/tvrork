@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "app.rork.smart-iptv-viewer",
+      "package": "me.jehadurre.smartiptvviewer",
       "softwareKeyboardLayoutMode": "pan",
       "permissions": [
         "INTERNET"
