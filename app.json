@@ -24,7 +24,9 @@
       },
       "package": "app.rork.smart-iptv-viewer",
       "softwareKeyboardLayoutMode": "pan",
-      "permissions": ["INTERNET"]
+      "permissions": [
+        "INTERNET"
+      ]
     },
     "androidTV": {
       "banner": "./assets/images/tv_banner.png"
@@ -34,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e292d8f9-da80-4860-a414-be361d03d8e0"
+      }
+    },
+    "owner": "jehadurre"
   }
 }
